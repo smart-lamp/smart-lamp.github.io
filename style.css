@@ -17,3 +17,13 @@ body {
   a {
     text-decoration: none;
   }
+
+  ul {
+    text-align: center;
+  }
+
+  li {
+    text-align: center;
+    align-items: center;
+    
+  }
